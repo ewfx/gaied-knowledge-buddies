@@ -1,0 +1,14 @@
+From: john.doe@example.com  
+To: support@bank.com  
+Subject: Request for Loan Extension  
+
+Dear Loan Servicing Team,  
+
+I hope this email finds you well. Due to unforeseen financial difficulties, I am requesting an extension on my loan repayment for an additional three months.  
+
+Please let me know the process and any additional documentation required.  
+
+Thank you for your time and consideration.  
+
+Best regards,  
+John Doe  
